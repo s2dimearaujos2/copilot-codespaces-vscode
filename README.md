@@ -1,28 +1,19 @@
-<header>
+# Título do Projeto Extremamente Aesthetic ;)
 
-<!--
-  <<< Author notes: Course header >>>
-  Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
-  Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Next to "About", add description & tags; disable releases, packages, & environments.
-  Add your open source license, GitHub uses the MIT license.
--->
+## 📒 Descrição
+Breve descrição do seu projeto
 
-# Code with GitHub Copilot
+## 🤖 Tecnologias Utilizadas
+Liste as IAs Generativas e outras ferramentas usadas
 
-_GitHub Copilot can help you code by offering autocomplete-style suggestions right in VS Code and Codespaces._
+## 🧐 Processo de Criação
+Descreva como você criou o conteúdo
 
-</header>
+## 🚀 Resultados
+Apresente os resultados do seu projeto
 
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
-
-## Welcome
-
+## 💭 Reflexão (Opcional)
+Comente sobre o desafio de criar algo 'natty' com IA.
 GitHub Copilot can help you code by offering autocomplete-style suggestions. You can learn how GitHub Copilot works, and what to consider while using GitHub Copilot. GitHub Copilot analyzes the context in the file you are editing, as well as related files, and offers suggestions from within your text editor. GitHub Copilot is powered by OpenAI Codex, a new AI system created by OpenAI.
 
 - **Who this is for**: Developers, DevOps Engineers, Software development managers, Testers.
